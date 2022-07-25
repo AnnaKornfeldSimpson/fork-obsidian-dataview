@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "src",
     "sourceMap": true,
-    "inlineSourceMap": true,
+    /* "inlineSourceMap": true, */ /* "sourceMap": true, */
     "inlineSources": true,
     "module": "ESNext",
     "target": "es2018",
