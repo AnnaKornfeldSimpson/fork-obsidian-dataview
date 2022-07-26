@@ -16,6 +16,8 @@ test-vault/.obsidian/plugins/dataview/*.css
 test-vault/.obsidian/plugins/dataview/*.js
 test-vault/.obsidian/plugins/dataview/*.json
 
+coverage/
+
 lib
 package-lock.json
 yarn.lock
