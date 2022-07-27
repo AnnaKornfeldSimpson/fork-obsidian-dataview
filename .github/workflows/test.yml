@@ -1,9 +1,9 @@
 name: Build and test project
 on:
   push:
-    branches: [ main ]
+    branches: [ main, "upstream" ]
   pull_request:
-    branches: [ main ]
+    branches: [ main, "upstream" ]
 
 jobs:
   format:
